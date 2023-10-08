@@ -1,1 +1,7 @@
-# scheduler-web-app
+* About
+In this challenge we create a web app that tracks our daily schedule.
+
+[[./assets/img/screenshot.png]]
+
+* License
+Please refer to the [[LICENSE][LICENSE]] in the repo.
